@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>sid</title>
+        <style>
+            body {background-color: black;font-family: 'Courier New', monospace;text-align: center;color: aqua;text-decoration: none;}
+            a {color: rgb(246, 168, 0);text-decoration: none;background-color: rgb(0, 0, 0);padding-left: 2%;padding-right: 2%;}
+            main {text-align: center;text-decoration:none;color:rgb(200, 255, 0);}
+            footer{background-color: rgb(0, 0, 0);color: rgb(245, 228, 228);text-align: center;text-decoration: none;}
+            h1 {border-style: double;padding: 1cm;}
+            img {padding: 0.2cm;}
+        </style>
+    </head>
+    <body>
+    <br>
+   <hr>    
+    <nav>
+        <a href = "#"> Home</a>
+        <a href = "#c4">Photo Album</a>
+        <a href = "#c3">Certifications</a>
+        <a href = "#c5">Contact</a>
+    </nav>
+    <hr>
+    <br>
+    <section style="border:3px;">
+    <!-- <img src = "D:\CANNON PHOTOS\IMG_4200_edited photo.jpg" width = "50%" height = "30%" > -->
+    <h1> Sidharth N</h1>
+    <h2> Student at BMSIT</h2>
+    <p>2022-2025</p>    
+    </section>
+    <br>
+    <hr>
+    <br>
+    <main>
+        <section >
+        <h2>Demographics</h2>
+        <p>A student at BMSIT yelahanka</p> 
+        <p>  ex- KAVIAN</p>
+        <p>  DOB: 2222</p>
+        <p>   At :Bengaluru</p>
+        </section>
+        <hr>
+        <h1 id="c4">Photo Album</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IwSACYqtc51PPPCr7zUFWS4xNos6lhI9tg&usqp=CAU" width="450cm",height= "150cm">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9w3X5T4FYQIuheVNq_mGmH25HERfXGtmvA&usqp=CAU" width="450cm",height= "150cm">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hQO0VrC80fKUE6tfdM0_aG-T9_BuQcJBtA&usqp=CAU" width="450cm",height= "150cm" >
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41unBNKol3NWNzYde5QXDVTxRQBWvQ17o3w&usqp=CAU" width="450cm",height= "150cm">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6N3jEr3Hgb_gAAWIp4a36iCbhXfYkv4GYVg&usqp=CAU" width="450cm",height= "150cm">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73zg9ue6CrB6ZXpn2zOKbFmWlhMZ3tPVMHQ&usqp=CAU" width="450cm",height= "150cm" >
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToG-pgghZqoE_uigGyy03jHznzNC8aev8OQ&usqp=CAU" width="450cm",height= "150cm">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxRErpoViH2il20dGdN8FL38rgh5wFHe5dA&usqp=CAU" width="450cm",height= "150cm">
+      
+
+    <section style="padding-top: 1cm;padding-bottom: 1cm;">
+        <h1 id="c3">Certifications</h1>
+        <img src="https://coursera-certificate-images.s3.amazonaws.com/WM9BS38RJ26N" width="450cm",height= "150cm" >
+        <img src="https://coursera-certificate-images.s3.amazonaws.com/HPG5WRXPJK5M" width="450cm",height= "150cm">
+        <img src="https://coursera-certificate-images.s3.amazonaws.com/XARMBVEUDZ84" width="450cm",height= "150cm">
+    
+    </section>
+    <section style="text-align:center;padding-top: 1cm;padding-bottom: 1cm;">
+        <h2 style="border: 0.02cm;border-style: dashed;" id="c5">CONTACT INFORMATION</h2>
+        <p>abcd nagar</p>
+        <p>DELHI,BENGALURU,MUMBAI</p>
+        <p>1234567890</p>
+    </section>
+    </main>
+    <br>
+    <br>
+    <footer style="border: 0.02cm;border-style: dashed;">
+        <a href = "#" > FAQ</a>
+        <a href = "#"> </a>
+        <a href = "#"> <i>&copy;2022|SiKuSu</i></a>
+    </footer>
+    
+    </body>   
+</html>
